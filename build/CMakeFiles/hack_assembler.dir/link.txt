@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/hack_assembler.dir/link.d CMakeFiles/hack_assembler.dir/src/hack_assembler.c.o CMakeFiles/hack_assembler.dir/src/hack_preprocessor.c.o CMakeFiles/hack_assembler.dir/src/utils.c.o -o hack_assembler

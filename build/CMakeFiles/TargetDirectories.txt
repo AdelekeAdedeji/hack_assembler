@@ -1,5 +1,0 @@
-/home/adedeji/C/hack-assembler/build/CMakeFiles/hack_assembler.dir
-/home/adedeji/C/hack-assembler/build/CMakeFiles/run.dir
-/home/adedeji/C/hack-assembler/build/CMakeFiles/valgrind.dir
-/home/adedeji/C/hack-assembler/build/CMakeFiles/edit_cache.dir
-/home/adedeji/C/hack-assembler/build/CMakeFiles/rebuild_cache.dir
