@@ -646,12 +646,6 @@ void generate_binary_file(const char *path) {
 
   printf("bin_cache is %d lines\n", count2);
   */
-  // print_hash_table(pd_symbols_table);
-  // print_hash_table(label_symbol_table);
-  // print_hash_table(variable_symbol_table);
-  // print_hash_table(mnemonic_comp_lookup_table);
-  // print_hash_table(mnemonic_dest_lookup_table);
-  // print_hash_table(mnemonic_jump_lookup_table);
 
   write_file(out_path);
 
