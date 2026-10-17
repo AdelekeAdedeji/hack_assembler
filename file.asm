@@ -1,3 +1,6 @@
+// This is a stub hack assembly file to confirm hack assembler translates properly and evaluate edge cases I could think of      
+
+
     @R0
    D  =   M
 @I  S _  M_  GRE  ATE R_ TH AN_ ZERO
