@@ -1,4 +1,6 @@
-// This is a stub hack assembly file I created myself to confirm hack assembler translates properly and to evaluate edge cases I could think of      
+// This is a stub hack assembly file I created myself to confirm hack assembler translates properly and to evaluate edge cases I could think of
+
+// Note: correctness of assembly written in this file is not my main priority, the goal is to make sure the hack assembler works well 
 
 // Original assembly files provided are included as well alongside their corresponding binaries 
 
