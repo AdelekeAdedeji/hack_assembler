@@ -1,6 +1,6 @@
 // This is a stub hack assembly file I created myself to confirm hack assembler translates properly and evaluate edge cases I could think of      
 
-// Original assembly files provided are also included alongside their corresponding binaries 
+// Original assembly files provided are included as well alongside their corresponding binaries 
 
     @R0
    D  =   M
